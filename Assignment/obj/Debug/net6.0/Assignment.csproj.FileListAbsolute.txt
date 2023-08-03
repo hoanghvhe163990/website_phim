@@ -1,0 +1,268 @@
+C:\Test\Assignment\Assignment\bin\Debug\net6.0\appsettings.Development.json
+C:\Test\Assignment\Assignment\bin\Debug\net6.0\appsettings.json
+C:\Test\Assignment\Assignment\bin\Debug\net6.0\Assignment.staticwebassets.runtime.json
+C:\Test\Assignment\Assignment\bin\Debug\net6.0\Assignment.exe
+C:\Test\Assignment\Assignment\bin\Debug\net6.0\Assignment.deps.json
+C:\Test\Assignment\Assignment\bin\Debug\net6.0\Assignment.runtimeconfig.json
+C:\Test\Assignment\Assignment\bin\Debug\net6.0\Assignment.dll
+C:\Test\Assignment\Assignment\bin\Debug\net6.0\Assignment.pdb
+C:\Test\Assignment\Assignment\bin\Debug\net6.0\Humanizer.dll
+C:\Test\Assignment\Assignment\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Test\Assignment\Assignment\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Test\Assignment\Assignment\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Test\Assignment\Assignment\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Test\Assignment\Assignment\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Test\Assignment\Assignment\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Test\Assignment\Assignment\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Test\Assignment\Assignment\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Test\Assignment\Assignment\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Test\Assignment\Assignment\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Test\Assignment\Assignment\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Test\Assignment\Assignment\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Test\Assignment\Assignment\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Test\Assignment\Assignment\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Test\Assignment\Assignment\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Test\Assignment\Assignment\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Test\Assignment\Assignment\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Test\Assignment\Assignment\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Test\Assignment\Assignment\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Test\Assignment\Assignment\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Test\Assignment\Assignment\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Test\Assignment\Assignment\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Test\Assignment\Assignment\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Test\Assignment\Assignment\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Test\Assignment\Assignment\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Test\Assignment\Assignment\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Test\Assignment\Assignment\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Test\Assignment\Assignment\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Test\Assignment\Assignment\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Test\Assignment\Assignment\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Test\Assignment\Assignment\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Test\Assignment\Assignment\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Test\Assignment\Assignment\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Test\Assignment\Assignment\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Test\Assignment\Assignment\obj\Debug\net6.0\Assignment.csproj.AssemblyReference.cache
+C:\Test\Assignment\Assignment\obj\Debug\net6.0\Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Test\Assignment\Assignment\obj\Debug\net6.0\Assignment.AssemblyInfoInputs.cache
+C:\Test\Assignment\Assignment\obj\Debug\net6.0\Assignment.AssemblyInfo.cs
+C:\Test\Assignment\Assignment\obj\Debug\net6.0\Assignment.csproj.CoreCompileInputs.cache
+C:\Test\Assignment\Assignment\obj\Debug\net6.0\Assignment.MvcApplicationPartsAssemblyInfo.cache
+C:\Test\Assignment\Assignment\obj\Debug\net6.0\Assignment.RazorAssemblyInfo.cache
+C:\Test\Assignment\Assignment\obj\Debug\net6.0\Assignment.RazorAssemblyInfo.cs
+C:\Test\Assignment\Assignment\obj\Debug\net6.0\staticwebassets\msbuild.Assignment.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Test\Assignment\Assignment\obj\Debug\net6.0\staticwebassets\msbuild.build.Assignment.props
+C:\Test\Assignment\Assignment\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Assignment.props
+C:\Test\Assignment\Assignment\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Assignment.props
+C:\Test\Assignment\Assignment\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Test\Assignment\Assignment\obj\Debug\net6.0\staticwebassets.build.json
+C:\Test\Assignment\Assignment\obj\Debug\net6.0\staticwebassets.development.json
+C:\Test\Assignment\Assignment\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Test\Assignment\Assignment\obj\Debug\net6.0\scopedcss\bundle\Assignment.styles.css
+C:\Test\Assignment\Assignment\obj\Debug\net6.0\scopedcss\projectbundle\Assignment.bundle.scp.css
+C:\Test\Assignment\Assignment\obj\Debug\net6.0\Assignment.csproj.CopyComplete
+C:\Test\Assignment\Assignment\obj\Debug\net6.0\Assignment.dll
+C:\Test\Assignment\Assignment\obj\Debug\net6.0\refint\Assignment.dll
+C:\Test\Assignment\Assignment\obj\Debug\net6.0\Assignment.pdb
+C:\Test\Assignment\Assignment\obj\Debug\net6.0\Assignment.genruntimeconfig.cache
+C:\Test\Assignment\Assignment\obj\Debug\net6.0\ref\Assignment.dll
+C:\Users\lenam\OneDrive\Desktop\PRN211\Assignment\Assignment\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\lenam\OneDrive\Desktop\PRN211\Assignment\Assignment\bin\Debug\net6.0\appsettings.json
+C:\Users\lenam\OneDrive\Desktop\PRN211\Assignment\Assignment\bin\Debug\net6.0\Assignment.staticwebassets.runtime.json
+C:\Users\lenam\OneDrive\Desktop\PRN211\Assignment\Assignment\bin\Debug\net6.0\Assignment.exe
+C:\Users\lenam\OneDrive\Desktop\PRN211\Assignment\Assignment\bin\Debug\net6.0\Assignment.deps.json
+C:\Users\lenam\OneDrive\Desktop\PRN211\Assignment\Assignment\bin\Debug\net6.0\Assignment.runtimeconfig.json
+C:\Users\lenam\OneDrive\Desktop\PRN211\Assignment\Assignment\bin\Debug\net6.0\Assignment.dll
+C:\Users\lenam\OneDrive\Desktop\PRN211\Assignment\Assignment\bin\Debug\net6.0\Assignment.pdb
+C:\Users\lenam\OneDrive\Desktop\PRN211\Assignment\Assignment\bin\Debug\net6.0\Humanizer.dll
+C:\Users\lenam\OneDrive\Desktop\PRN211\Assignment\Assignment\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\lenam\OneDrive\Desktop\PRN211\Assignment\Assignment\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\lenam\OneDrive\Desktop\PRN211\Assignment\Assignment\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\lenam\OneDrive\Desktop\PRN211\Assignment\Assignment\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\lenam\OneDrive\Desktop\PRN211\Assignment\Assignment\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\lenam\OneDrive\Desktop\PRN211\Assignment\Assignment\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\lenam\OneDrive\Desktop\PRN211\Assignment\Assignment\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\lenam\OneDrive\Desktop\PRN211\Assignment\Assignment\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\lenam\OneDrive\Desktop\PRN211\Assignment\Assignment\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\lenam\OneDrive\Desktop\PRN211\Assignment\Assignment\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\lenam\OneDrive\Desktop\PRN211\Assignment\Assignment\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\lenam\OneDrive\Desktop\PRN211\Assignment\Assignment\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\lenam\OneDrive\Desktop\PRN211\Assignment\Assignment\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\lenam\OneDrive\Desktop\PRN211\Assignment\Assignment\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\lenam\OneDrive\Desktop\PRN211\Assignment\Assignment\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\lenam\OneDrive\Desktop\PRN211\Assignment\Assignment\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\lenam\OneDrive\Desktop\PRN211\Assignment\Assignment\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\lenam\OneDrive\Desktop\PRN211\Assignment\Assignment\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\lenam\OneDrive\Desktop\PRN211\Assignment\Assignment\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\lenam\OneDrive\Desktop\PRN211\Assignment\Assignment\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lenam\OneDrive\Desktop\PRN211\Assignment\Assignment\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\lenam\OneDrive\Desktop\PRN211\Assignment\Assignment\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\lenam\OneDrive\Desktop\PRN211\Assignment\Assignment\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\lenam\OneDrive\Desktop\PRN211\Assignment\Assignment\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\lenam\OneDrive\Desktop\PRN211\Assignment\Assignment\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lenam\OneDrive\Desktop\PRN211\Assignment\Assignment\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lenam\OneDrive\Desktop\PRN211\Assignment\Assignment\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lenam\OneDrive\Desktop\PRN211\Assignment\Assignment\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lenam\OneDrive\Desktop\PRN211\Assignment\Assignment\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\lenam\OneDrive\Desktop\PRN211\Assignment\Assignment\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\lenam\OneDrive\Desktop\PRN211\Assignment\Assignment\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\lenam\OneDrive\Desktop\PRN211\Assignment\Assignment\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\lenam\OneDrive\Desktop\PRN211\Assignment\Assignment\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lenam\OneDrive\Desktop\PRN211\Assignment\Assignment\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\lenam\OneDrive\Desktop\PRN211\Assignment\Assignment\obj\Debug\net6.0\Assignment.csproj.AssemblyReference.cache
+C:\Users\lenam\OneDrive\Desktop\PRN211\Assignment\Assignment\obj\Debug\net6.0\Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenam\OneDrive\Desktop\PRN211\Assignment\Assignment\obj\Debug\net6.0\Assignment.AssemblyInfoInputs.cache
+C:\Users\lenam\OneDrive\Desktop\PRN211\Assignment\Assignment\obj\Debug\net6.0\Assignment.AssemblyInfo.cs
+C:\Users\lenam\OneDrive\Desktop\PRN211\Assignment\Assignment\obj\Debug\net6.0\Assignment.csproj.CoreCompileInputs.cache
+C:\Users\lenam\OneDrive\Desktop\PRN211\Assignment\Assignment\obj\Debug\net6.0\Assignment.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lenam\OneDrive\Desktop\PRN211\Assignment\Assignment\obj\Debug\net6.0\Assignment.RazorAssemblyInfo.cache
+C:\Users\lenam\OneDrive\Desktop\PRN211\Assignment\Assignment\obj\Debug\net6.0\Assignment.RazorAssemblyInfo.cs
+C:\Users\lenam\OneDrive\Desktop\PRN211\Assignment\Assignment\obj\Debug\net6.0\staticwebassets\msbuild.Assignment.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\lenam\OneDrive\Desktop\PRN211\Assignment\Assignment\obj\Debug\net6.0\staticwebassets\msbuild.build.Assignment.props
+C:\Users\lenam\OneDrive\Desktop\PRN211\Assignment\Assignment\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Assignment.props
+C:\Users\lenam\OneDrive\Desktop\PRN211\Assignment\Assignment\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Assignment.props
+C:\Users\lenam\OneDrive\Desktop\PRN211\Assignment\Assignment\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\lenam\OneDrive\Desktop\PRN211\Assignment\Assignment\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\lenam\OneDrive\Desktop\PRN211\Assignment\Assignment\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\lenam\OneDrive\Desktop\PRN211\Assignment\Assignment\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\lenam\OneDrive\Desktop\PRN211\Assignment\Assignment\obj\Debug\net6.0\scopedcss\bundle\Assignment.styles.css
+C:\Users\lenam\OneDrive\Desktop\PRN211\Assignment\Assignment\obj\Debug\net6.0\scopedcss\projectbundle\Assignment.bundle.scp.css
+C:\Users\lenam\OneDrive\Desktop\PRN211\Assignment\Assignment\obj\Debug\net6.0\Assignment.csproj.CopyComplete
+C:\Users\lenam\OneDrive\Desktop\PRN211\Assignment\Assignment\obj\Debug\net6.0\Assignment.dll
+C:\Users\lenam\OneDrive\Desktop\PRN211\Assignment\Assignment\obj\Debug\net6.0\refint\Assignment.dll
+C:\Users\lenam\OneDrive\Desktop\PRN211\Assignment\Assignment\obj\Debug\net6.0\Assignment.pdb
+C:\Users\lenam\OneDrive\Desktop\PRN211\Assignment\Assignment\obj\Debug\net6.0\Assignment.genruntimeconfig.cache
+C:\Users\lenam\OneDrive\Desktop\PRN211\Assignment\Assignment\obj\Debug\net6.0\ref\Assignment.dll
+D:\Study\SESSION 5\PRN211\Assignment\Assignment\bin\Debug\net6.0\appsettings.Development.json
+D:\Study\SESSION 5\PRN211\Assignment\Assignment\bin\Debug\net6.0\appsettings.json
+D:\Study\SESSION 5\PRN211\Assignment\Assignment\bin\Debug\net6.0\Assignment.staticwebassets.runtime.json
+D:\Study\SESSION 5\PRN211\Assignment\Assignment\bin\Debug\net6.0\Assignment.exe
+D:\Study\SESSION 5\PRN211\Assignment\Assignment\bin\Debug\net6.0\Assignment.deps.json
+D:\Study\SESSION 5\PRN211\Assignment\Assignment\bin\Debug\net6.0\Assignment.runtimeconfig.json
+D:\Study\SESSION 5\PRN211\Assignment\Assignment\bin\Debug\net6.0\Assignment.dll
+D:\Study\SESSION 5\PRN211\Assignment\Assignment\bin\Debug\net6.0\Assignment.pdb
+D:\Study\SESSION 5\PRN211\Assignment\Assignment\bin\Debug\net6.0\Humanizer.dll
+D:\Study\SESSION 5\PRN211\Assignment\Assignment\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Study\SESSION 5\PRN211\Assignment\Assignment\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Study\SESSION 5\PRN211\Assignment\Assignment\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Study\SESSION 5\PRN211\Assignment\Assignment\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Study\SESSION 5\PRN211\Assignment\Assignment\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Study\SESSION 5\PRN211\Assignment\Assignment\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Study\SESSION 5\PRN211\Assignment\Assignment\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Study\SESSION 5\PRN211\Assignment\Assignment\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Study\SESSION 5\PRN211\Assignment\Assignment\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Study\SESSION 5\PRN211\Assignment\Assignment\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Study\SESSION 5\PRN211\Assignment\Assignment\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Study\SESSION 5\PRN211\Assignment\Assignment\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Study\SESSION 5\PRN211\Assignment\Assignment\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Study\SESSION 5\PRN211\Assignment\Assignment\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Study\SESSION 5\PRN211\Assignment\Assignment\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Study\SESSION 5\PRN211\Assignment\Assignment\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Study\SESSION 5\PRN211\Assignment\Assignment\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Study\SESSION 5\PRN211\Assignment\Assignment\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Study\SESSION 5\PRN211\Assignment\Assignment\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Study\SESSION 5\PRN211\Assignment\Assignment\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Study\SESSION 5\PRN211\Assignment\Assignment\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Study\SESSION 5\PRN211\Assignment\Assignment\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Study\SESSION 5\PRN211\Assignment\Assignment\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Study\SESSION 5\PRN211\Assignment\Assignment\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Study\SESSION 5\PRN211\Assignment\Assignment\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Study\SESSION 5\PRN211\Assignment\Assignment\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Study\SESSION 5\PRN211\Assignment\Assignment\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Study\SESSION 5\PRN211\Assignment\Assignment\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Study\SESSION 5\PRN211\Assignment\Assignment\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Study\SESSION 5\PRN211\Assignment\Assignment\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Study\SESSION 5\PRN211\Assignment\Assignment\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Study\SESSION 5\PRN211\Assignment\Assignment\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Study\SESSION 5\PRN211\Assignment\Assignment\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Study\SESSION 5\PRN211\Assignment\Assignment\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Study\SESSION 5\PRN211\Assignment\Assignment\obj\Debug\net6.0\Assignment.csproj.AssemblyReference.cache
+D:\Study\SESSION 5\PRN211\Assignment\Assignment\obj\Debug\net6.0\Assignment.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\SESSION 5\PRN211\Assignment\Assignment\obj\Debug\net6.0\Assignment.AssemblyInfoInputs.cache
+D:\Study\SESSION 5\PRN211\Assignment\Assignment\obj\Debug\net6.0\Assignment.AssemblyInfo.cs
+D:\Study\SESSION 5\PRN211\Assignment\Assignment\obj\Debug\net6.0\Assignment.csproj.CoreCompileInputs.cache
+D:\Study\SESSION 5\PRN211\Assignment\Assignment\obj\Debug\net6.0\Assignment.MvcApplicationPartsAssemblyInfo.cache
+D:\Study\SESSION 5\PRN211\Assignment\Assignment\obj\Debug\net6.0\Assignment.RazorAssemblyInfo.cache
+D:\Study\SESSION 5\PRN211\Assignment\Assignment\obj\Debug\net6.0\Assignment.RazorAssemblyInfo.cs
+D:\Study\SESSION 5\PRN211\Assignment\Assignment\obj\Debug\net6.0\staticwebassets\msbuild.Assignment.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Study\SESSION 5\PRN211\Assignment\Assignment\obj\Debug\net6.0\staticwebassets\msbuild.build.Assignment.props
+D:\Study\SESSION 5\PRN211\Assignment\Assignment\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Assignment.props
+D:\Study\SESSION 5\PRN211\Assignment\Assignment\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Assignment.props
+D:\Study\SESSION 5\PRN211\Assignment\Assignment\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Study\SESSION 5\PRN211\Assignment\Assignment\obj\Debug\net6.0\staticwebassets.build.json
+D:\Study\SESSION 5\PRN211\Assignment\Assignment\obj\Debug\net6.0\staticwebassets.development.json
+D:\Study\SESSION 5\PRN211\Assignment\Assignment\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Study\SESSION 5\PRN211\Assignment\Assignment\obj\Debug\net6.0\scopedcss\bundle\Assignment.styles.css
+D:\Study\SESSION 5\PRN211\Assignment\Assignment\obj\Debug\net6.0\scopedcss\projectbundle\Assignment.bundle.scp.css
+D:\Study\SESSION 5\PRN211\Assignment\Assignment\obj\Debug\net6.0\Assignment.csproj.CopyComplete
+D:\Study\SESSION 5\PRN211\Assignment\Assignment\obj\Debug\net6.0\Assignment.dll
+D:\Study\SESSION 5\PRN211\Assignment\Assignment\obj\Debug\net6.0\refint\Assignment.dll
+D:\Study\SESSION 5\PRN211\Assignment\Assignment\obj\Debug\net6.0\Assignment.pdb
+D:\Study\SESSION 5\PRN211\Assignment\Assignment\obj\Debug\net6.0\Assignment.genruntimeconfig.cache
+D:\Study\SESSION 5\PRN211\Assignment\Assignment\obj\Debug\net6.0\ref\Assignment.dll
+C:\Users\84339\Desktop\PRN211\PRN211\Assignment\Assignment\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\84339\Desktop\PRN211\PRN211\Assignment\Assignment\bin\Debug\net6.0\appsettings.json
+C:\Users\84339\Desktop\PRN211\PRN211\Assignment\Assignment\bin\Debug\net6.0\Assignment.staticwebassets.runtime.json
+C:\Users\84339\Desktop\PRN211\PRN211\Assignment\Assignment\bin\Debug\net6.0\Assignment.exe
+C:\Users\84339\Desktop\PRN211\PRN211\Assignment\Assignment\bin\Debug\net6.0\Assignment.deps.json
+C:\Users\84339\Desktop\PRN211\PRN211\Assignment\Assignment\bin\Debug\net6.0\Assignment.runtimeconfig.json
+C:\Users\84339\Desktop\PRN211\PRN211\Assignment\Assignment\bin\Debug\net6.0\Assignment.dll
+C:\Users\84339\Desktop\PRN211\PRN211\Assignment\Assignment\bin\Debug\net6.0\Assignment.pdb
+C:\Users\84339\Desktop\PRN211\PRN211\Assignment\Assignment\bin\Debug\net6.0\Humanizer.dll
+C:\Users\84339\Desktop\PRN211\PRN211\Assignment\Assignment\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\84339\Desktop\PRN211\PRN211\Assignment\Assignment\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\84339\Desktop\PRN211\PRN211\Assignment\Assignment\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\84339\Desktop\PRN211\PRN211\Assignment\Assignment\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\84339\Desktop\PRN211\PRN211\Assignment\Assignment\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\84339\Desktop\PRN211\PRN211\Assignment\Assignment\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\84339\Desktop\PRN211\PRN211\Assignment\Assignment\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\84339\Desktop\PRN211\PRN211\Assignment\Assignment\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\84339\Desktop\PRN211\PRN211\Assignment\Assignment\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\84339\Desktop\PRN211\PRN211\Assignment\Assignment\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\84339\Desktop\PRN211\PRN211\Assignment\Assignment\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\84339\Desktop\PRN211\PRN211\Assignment\Assignment\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\84339\Desktop\PRN211\PRN211\Assignment\Assignment\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\84339\Desktop\PRN211\PRN211\Assignment\Assignment\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\84339\Desktop\PRN211\PRN211\Assignment\Assignment\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\84339\Desktop\PRN211\PRN211\Assignment\Assignment\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\84339\Desktop\PRN211\PRN211\Assignment\Assignment\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\84339\Desktop\PRN211\PRN211\Assignment\Assignment\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\84339\Desktop\PRN211\PRN211\Assignment\Assignment\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\84339\Desktop\PRN211\PRN211\Assignment\Assignment\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\84339\Desktop\PRN211\PRN211\Assignment\Assignment\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\84339\Desktop\PRN211\PRN211\Assignment\Assignment\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\84339\Desktop\PRN211\PRN211\Assignment\Assignment\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\84339\Desktop\PRN211\PRN211\Assignment\Assignment\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\84339\Desktop\PRN211\PRN211\Assignment\Assignment\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\84339\Desktop\PRN211\PRN211\Assignment\Assignment\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\84339\Desktop\PRN211\PRN211\Assignment\Assignment\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\84339\Desktop\PRN211\PRN211\Assignment\Assignment\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\84339\Desktop\PRN211\PRN211\Assignment\Assignment\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\84339\Desktop\PRN211\PRN211\Assignment\Assignment\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\84339\Desktop\PRN211\PRN211\Assignment\Assignment\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\84339\Desktop\PRN211\PRN211\Assignment\Assignment\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\84339\Desktop\PRN211\PRN211\Assignment\Assignment\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\84339\Desktop\PRN211\PRN211\Assignment\Assignment\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\84339\Desktop\PRN211\PRN211\Assignment\Assignment\obj\Debug\net6.0\Assignment.csproj.AssemblyReference.cache
+C:\Users\84339\Desktop\PRN211\PRN211\Assignment\Assignment\obj\Debug\net6.0\Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\84339\Desktop\PRN211\PRN211\Assignment\Assignment\obj\Debug\net6.0\Assignment.AssemblyInfoInputs.cache
+C:\Users\84339\Desktop\PRN211\PRN211\Assignment\Assignment\obj\Debug\net6.0\Assignment.AssemblyInfo.cs
+C:\Users\84339\Desktop\PRN211\PRN211\Assignment\Assignment\obj\Debug\net6.0\Assignment.csproj.CoreCompileInputs.cache
+C:\Users\84339\Desktop\PRN211\PRN211\Assignment\Assignment\obj\Debug\net6.0\Assignment.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\84339\Desktop\PRN211\PRN211\Assignment\Assignment\obj\Debug\net6.0\Assignment.RazorAssemblyInfo.cache
+C:\Users\84339\Desktop\PRN211\PRN211\Assignment\Assignment\obj\Debug\net6.0\Assignment.RazorAssemblyInfo.cs
+C:\Users\84339\Desktop\PRN211\PRN211\Assignment\Assignment\obj\Debug\net6.0\staticwebassets\msbuild.Assignment.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\84339\Desktop\PRN211\PRN211\Assignment\Assignment\obj\Debug\net6.0\staticwebassets\msbuild.build.Assignment.props
+C:\Users\84339\Desktop\PRN211\PRN211\Assignment\Assignment\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Assignment.props
+C:\Users\84339\Desktop\PRN211\PRN211\Assignment\Assignment\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Assignment.props
+C:\Users\84339\Desktop\PRN211\PRN211\Assignment\Assignment\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\84339\Desktop\PRN211\PRN211\Assignment\Assignment\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\84339\Desktop\PRN211\PRN211\Assignment\Assignment\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\84339\Desktop\PRN211\PRN211\Assignment\Assignment\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\84339\Desktop\PRN211\PRN211\Assignment\Assignment\obj\Debug\net6.0\scopedcss\bundle\Assignment.styles.css
+C:\Users\84339\Desktop\PRN211\PRN211\Assignment\Assignment\obj\Debug\net6.0\scopedcss\projectbundle\Assignment.bundle.scp.css
+C:\Users\84339\Desktop\PRN211\PRN211\Assignment\Assignment\obj\Debug\net6.0\Assignment.csproj.CopyComplete
+C:\Users\84339\Desktop\PRN211\PRN211\Assignment\Assignment\obj\Debug\net6.0\Assignment.dll
+C:\Users\84339\Desktop\PRN211\PRN211\Assignment\Assignment\obj\Debug\net6.0\refint\Assignment.dll
+C:\Users\84339\Desktop\PRN211\PRN211\Assignment\Assignment\obj\Debug\net6.0\Assignment.pdb
+C:\Users\84339\Desktop\PRN211\PRN211\Assignment\Assignment\obj\Debug\net6.0\Assignment.genruntimeconfig.cache
+C:\Users\84339\Desktop\PRN211\PRN211\Assignment\Assignment\obj\Debug\net6.0\ref\Assignment.dll
